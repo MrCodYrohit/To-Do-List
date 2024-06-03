@@ -1,5 +1,4 @@
-# To-Do-List using React.js
-
+# To-Do-List
 Demo: https://mftjn4.csb.app/
 
 
